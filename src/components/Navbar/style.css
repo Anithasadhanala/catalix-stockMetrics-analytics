@@ -1,0 +1,111 @@
+.blue-box-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  padding: 20px;
+  background: rgba(47, 102, 127, 1);
+  border-radius: 36px;
+  box-shadow: 9px 9px 12.5px rgba(0, 0, 0, 0.25);
+height: 96vh;
+}
+.vertical-menu-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  padding: 33px 23px;
+  border-top: 0.9px solid white;
+}
+.navbar-item {
+  display: flex;
+  
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.svg-container {
+  display: flex;
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+}
+.text-block-with-title {
+  flex: 0 0 auto;
+  margin-left: 12px;
+  font: 400 18px/18px Poppins, sans-serif;
+  color: rgba(255, 255, 255, 1);
+  white-space: pre-wrap;
+}
+.menu-option-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 38px;
+}
+.vertical-flex-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+
+}
+.flex-align-end-with-padding {
+  flex: 0 0 auto;
+  align-self: flex-end;
+  padding-right: 3px;
+  padding-left: 3px;
+  
+}
+.image-container {
+  box-sizing: border-box;
+  display: block;
+  width: 27px;
+  max-width: initial;
+  height: 26px;
+}
+.product-info-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 7px;
+  padding-left: 7px;
+  margin-top: 32px;
+  
+}
+.logo-image-container {
+  box-sizing: border-box;
+  display: block;
+  width: 29px;
+  max-width: initial;
+  height: 28px;
+}
+.majestic-heading {
+  flex: 0 0 auto;
+  padding-bottom: 4px;
+  margin-left: 11px;
+  margin-top: 15px;
+  font: 600 33px/0px Poppins, sans-serif;
+  color: rgba(255, 255, 255, 1);
+  white-space: pre-wrap;
+}
+.menu-list-container {
+  flex: 0 0 auto;
+  margin-top: 12px;
+}
+.blue-analytics-box {
+  background: #539bbb;
+  border-radius: 17.77777862548828px;
+}
+.menu-container:first-child {
+  margin-top: 0px;
+}

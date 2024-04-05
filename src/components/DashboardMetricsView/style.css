@@ -1,0 +1,12 @@
+.time-metric-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  padding: 29px 31px 42px 21px;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px rgba(109, 109, 109, 0.5);
+}

@@ -1,0 +1,23 @@
+.time-card {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.scope-image-container {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  align-self: flex-end;
+  width: 16px;
+  max-width: initial;
+  height: 16px;
+}
+.velocity-text-heading {
+  flex: 0 0 auto;
+  margin-top: 10px;
+  font: 600 16px/21.5px Poppins, sans-serif;
+  color: rgba(0, 0, 0, 1);
+  white-space: pre-wrap;
+}

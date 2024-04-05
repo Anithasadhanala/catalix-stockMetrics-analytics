@@ -1,0 +1,78 @@
+.dashboard-summary-view {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+.dashboard-header-controls {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 9px;
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 41px;
+}
+.rounded-share-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 241px;
+  min-width: 241px;
+  height: 41px;
+  font: 500 17.5px/19.5px Poppins, sans-serif;
+  color: rgba(47, 102, 127, 1);
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid rgba(108, 111, 107, 1);
+  border-radius: 98px;
+}
+.rounded-button-with-border {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 184px;
+  min-width: 184px;
+  height: 41px;
+  font: 500 17.5px/19.5px Poppins, sans-serif;
+  color: rgba(108, 111, 107, 1);
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid rgba(108, 111, 107, 1);
+  border-radius: 98px;
+}
+.rounded-button-with-text {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 258px;
+  min-width: 258px;
+  height: 41px;
+  font: 500 17.5px/19.5px Poppins, sans-serif;
+  color: rgba(108, 111, 107, 1);
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid rgba(108, 111, 107, 1);
+  border-radius: 98px;
+}
+.dashboard-metrics-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 22px;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 26px;
+}
+.flex-box-card {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  border-radius: 10.5px;
+  box-shadow: 0px 0px 4.25px rgba(109, 109, 109, 0.5);
+}

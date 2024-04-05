@@ -1,0 +1,7 @@
+.metric-data-container {
+  flex: 0 0 auto;
+  margin-left: 23px;
+}
+.metric-data-display:first-child {
+  margin-top: 0px;
+}

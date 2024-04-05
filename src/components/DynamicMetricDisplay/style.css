@@ -1,0 +1,9 @@
+.metric-display-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3px;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 13px;
+}

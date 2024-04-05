@@ -1,0 +1,37 @@
+.vertical-center-stats {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 13px;
+}
+.metric-info-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+.metric-label-container {
+  flex: 0 0 auto;
+  font: 300 15px/21.5px Poppins, sans-serif;
+  color: rgba(0, 0, 0, 1);
+  white-space: pre-wrap;
+}
+.story-points-label {
+  flex: 0 0 auto;
+  font: 600 15px/21.5px Poppins, sans-serif;
+  color: rgba(0, 0, 0, 1);
+  white-space: pre-wrap;
+}
+.velocity-info-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2px;
+}

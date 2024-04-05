@@ -1,0 +1,12 @@
+.metric-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-left: 3px;
+}
+.metric-text-display-style:first-child {
+  padding-left: 12px;
+}

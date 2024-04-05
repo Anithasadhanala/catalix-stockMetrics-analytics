@@ -1,0 +1,11 @@
+.metric-value-container1 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.price-with-padding {
+  padding-left: 11px;
+}

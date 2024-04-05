@@ -1,0 +1,6 @@
+.metric-text-display-style {
+  flex: 0 0 auto;
+  font: 500 11px/15.5px Poppins, sans-serif;
+  color: rgba(147, 150, 153, 1);
+  white-space: pre-wrap;
+}

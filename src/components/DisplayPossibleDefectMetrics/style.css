@@ -1,0 +1,9 @@
+.metric-value-container2 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-left: 25px;
+}

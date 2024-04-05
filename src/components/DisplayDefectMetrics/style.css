@@ -1,0 +1,8 @@
+.metric-data-display {
+  font: 500 11px/15.5px Poppins, sans-serif;
+  color: rgba(75, 81, 87, 1);
+  white-space: pre-wrap;
+}
+.vertical-margin-top {
+  margin-top: 17px;
+}

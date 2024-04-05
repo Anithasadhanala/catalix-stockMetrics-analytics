@@ -1,0 +1,26 @@
+.report-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 16.5px;
+  padding-left: 16.5px;
+  background: rgba(47, 102, 127, 1);
+  border-radius: 98px;
+}
+.svg-container2 {
+  display: flex;
+  flex: 0 0 auto;
+  width: 18px;
+  height: 18px;
+  color: rgba(255, 255, 255, 1);
+}
+.report-title-text-style {
+  flex: 0 0 auto;
+  margin-left: 6.5px;
+  font: 500 17.5px/19.5px Poppins, sans-serif;
+  color: rgba(255, 255, 255, 1);
+  white-space: pre-wrap;
+}
