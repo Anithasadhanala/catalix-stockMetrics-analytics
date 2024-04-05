@@ -1,4 +1,4 @@
-# Selected Element
+# Selected Elements
 
 This project contains all the code to generate the preview of the node you have selected in the figma
 
